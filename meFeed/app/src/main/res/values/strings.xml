@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Feedme</string>
+    <string name="content">content</string>
+    <string name="addFeed">Add Feed</string>
+    <string name="update">Update</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="post_your_status_here">Post your status here...</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="upload_successfully">file uploaded successfully</string>
+    <string name="uploading_message">Uploading....</string>
+</resources>

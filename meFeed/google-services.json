@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "149509219248",
+    "firebase_url": "https://feedme-c5706.firebaseio.com",
+    "project_id": "feedme-c5706",
+    "storage_bucket": "feedme-c5706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149509219248:android:d08d088dbacc6901",
+        "android_client_info": {
+          "package_name": "com.id11825142.feedme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149509219248-5dqnbt8dfi402ntk5cmious3olsacbjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdVnx0IhuG4nylIU4Q743y2M0e8tzbkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

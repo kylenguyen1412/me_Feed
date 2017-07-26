@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <Button
+        android:id="@+id/AddFeed_Activity_Add_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/update"/>
+
+    <EditText
+        android:id="@+id/AddFeed_Activity_Edittext"
+        android:layout_width="match_parent"
+        android:layout_height="45pt"
+        android:hint="@string/post_your_status_here"
+        android:inputType="textNoSuggestions"/>
+
+    <Button
+        android:id="@+id/AddFeed_Activity_choosePic_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_picture"/>
+
+    <Button
+        android:id="@+id/AddFeed_Activity_chooseVideo_Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_video"/>
+
+    <ImageView
+        android:id="@+id/item_imageview_IMG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"/>
+
+    <VideoView
+        android:id="@+id/item_videoview_VIDEO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"/>
+
+</LinearLayout>
